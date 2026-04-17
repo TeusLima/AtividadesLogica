@@ -6,7 +6,7 @@ for (let index = 6; index >= array.length; index--) {
     
     arrayInverso = array.pop(index)
     console.log(arrayInverso);
-    
+     
 }
 
 console.log();
