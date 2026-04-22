@@ -21,6 +21,8 @@ function validacao() {
 
 }
 
+//comentario sobre a vida: O que é a vida? A vida é uma maravilha...
+
 var saldo = 0;
 
 function Deposito() {
